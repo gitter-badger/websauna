@@ -81,3 +81,7 @@ Documentation
 =============
 
 See `websauna.org <https://websauna.org>`_.
+
+.. image:: https://badges.gitter.im/websauna/websauna.svg
+   :alt: Join the chat at https://gitter.im/websauna/websauna
+   :target: https://gitter.im/websauna/websauna?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
